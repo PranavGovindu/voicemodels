@@ -6,3 +6,6 @@ models :
 - [VibeVoice](./vibevoice/)
 
 
+note
+This may not be a perfect replication, and there may be inaccuracies in some parts. Please use this at your own discretion.
+This was originally just going to be a practice project for me, but I thought I'd make it public. ;)
